@@ -4,7 +4,7 @@
 
 Tölulegt verkefni í stæðrfræðigreiningu IV unnið vorið 2025.
 
-Ef áhugi er á fræðum þessa verekfnis má nálgast meiri upplýsinga í skýsrlunni eða <a href='https://edbook.hi.is/stae401g/index.html'>hér</a>.
+Ef áhugi er á fræðum þessa verekfnis má nálgast meiri upplýsingar í skýsrlunni eða <a href='https://edbook.hi.is/stae401g/index.html'>hér</a>.
 
 ## Keyrsla
 
