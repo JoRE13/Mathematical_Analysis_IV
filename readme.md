@@ -2,6 +2,10 @@
 
 ## Lýsing
 
+Tölulegt verkefni í stæðrfræðigreiningu IV unnið vorið 2025.
+
+Ef áhugi er á fræðum þessa verekfnis má nálgast meiri upplýsinga í skýsrlunni eða <a src='https://edbook.hi.is/stae401g/index.html'>hér</a>.
+
 ## Keyrsla
 
 Til þess að keyra forritið er þetta repository clone-að og jupyter skráin keyrð venjulega.
@@ -10,5 +14,5 @@ Til þess að keyra forritið er þetta repository clone-að og jupyter skráin 
 
 Verkefnið var unnið af
 
--
+- Ingvar Andri Ingvarsson - 
 - Jóhannes Reykdal Einarsson - jre5@hi.is
