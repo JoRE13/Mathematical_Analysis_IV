@@ -6,6 +6,8 @@ Tölulegt verkefni í stæðrfræðigreiningu IV unnið vorið 2025. Verkefnið 
 
 Ef áhugi er á fræðum þessa verekfnis má nálgast meiri upplýsingar í skýsrlunni eða <a href='https://edbook.hi.is/stae401g/index.html'>hér</a>.
 
+Einkunn: **100/100**
+
 ## Keyrsla
 
 Til þess að keyra forritið er þetta repository clone-að og jupyter skráin keyrð venjulega.
