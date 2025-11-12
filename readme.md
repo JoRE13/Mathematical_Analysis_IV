@@ -5,7 +5,7 @@
 This numerical project was completed as part of **Mathematical Analysis IV** during the spring semester of 2025.  
 The complete project solution can be found in the accompanying **Jupyter notebook**, while the main functions used to solve the tasks are implemented in the **Python scripts**.
 
-For those interested in the theoretical background and mathematical methods used, further details are available in the **project report** or on the [course webpage](https://edbook.hi.is/stae401g/index.html).
+For those interested in the theoretical background and mathematical methods used, further details are available in the **project report** or on [edbook](https://edbook.hi.is/stae401g/index.html).
 
 **Grade:** 100/100
 
