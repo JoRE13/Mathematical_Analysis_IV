@@ -1,20 +1,25 @@
-# Tölulegt Verkefni Stærðfræðigreiningu IV - STÆ401G
+# Numerical Project – Mathematical Analysis IV (STÆ401G)
 
-## Lýsing
+## Description
 
-Tölulegt verkefni í stæðrfræðigreiningu IV unnið vorið 2025. Verkefnið í heild seinni er að finna í jupiter skjalinu en megin föllin sem eru notuð til úrlausnar verkefnisins má finna í py skjölunum.
+This numerical project was completed as part of **Mathematical Analysis IV** during the spring semester of 2025.  
+The complete project solution can be found in the accompanying **Jupyter notebook**, while the main functions used to solve the tasks are implemented in the **Python scripts**.
 
-Ef áhugi er á fræðum þessa verekfnis má nálgast meiri upplýsingar í skýsrlunni eða <a href='https://edbook.hi.is/stae401g/index.html'>hér</a>.
+For those interested in the theoretical background and mathematical methods used, further details are available in the **project report** or on the [course webpage](https://edbook.hi.is/stae401g/index.html).
 
-Einkunn: **100/100**
+**Grade:** 100/100
 
-## Keyrsla
+## How to Run
 
-Til þess að keyra forritið er þetta repository clone-að og jupyter skráin keyrð venjulega.
+To run the project:
 
-## Samvinna
+1. Clone this repository.  
+2. Open the Jupyter notebook.  
+3. Run the notebook cells as usual.
 
-Verkefnið var unnið af
+## Collaboration
 
-- Ingvar Andri Ingvarsson - 
-- Jóhannes Reykdal Einarsson - jre5@hi.is
+This project was completed by:
+
+- **Ingvar Andri Ingvarsson**  
+- **Jóhannes Reykdal Einarsson** – [jre5@hi.is](mailto:jre5@hi.is)
