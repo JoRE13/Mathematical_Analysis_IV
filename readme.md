@@ -14,9 +14,6 @@ For those interested in the theoretical background and mathematical methods used
 
 **Grade:** 100/100
 
-
-**Grade:** 100/100
-
 ## How to Run
 
 To run the project:
